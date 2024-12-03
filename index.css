@@ -1,0 +1,54 @@
+
+        .box{
+            border: 2px solid;
+            padding: 70px;
+            width: 1px; 
+            height: 140px;
+            background-color: black
+        }
+        .red{
+            border: 2px solid red;
+        padding: 20px;
+        margin-top:-40px;
+        margin-inline-start: -20px;
+
+        }
+        .yellow{
+            border: 2px solid yellow;
+            padding: 20px;
+            margin-top:40px;
+            margin-inline-start: -20px;
+        }
+        .green{
+            border: 2px solid green;
+            padding: 20px;
+            margin-top: 40px;
+            margin-inline-start: -20px;
+           
+        }
+        .box{
+            border-radius: 30px;
+        }
+        .red,.yellow,.green{
+            border-radius: 50px;
+        }
+        .stand{
+            border: 2px solid;
+            padding: 20px;
+            width: 1px;
+            height:150px;
+            background-color:yellow;
+        }
+        h1{
+           background-color: red; 
+        }
+        .red:hover{
+            background-color: red;
+        }
+        .yellow:hover{
+            background-color: yellow;
+        }
+        .green:hover{
+            background-color: green;
+        }
+    
